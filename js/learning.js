@@ -244,27 +244,27 @@
 // )
 
 
-function basicOp(operation, value1, value2) {
-  let result = 0
-  switch(operation) {
-    case '+':
-      result = value1 + value2;
-      break;
-    case '-':
-      result = value1 - value2;
-      break;
-    case '*':
-      result = value1 * value2;
-      break;
-    case '/':
-      result = value1 + value2;
-      break;
-  }
-  console.log(result);
+// function basicOp(operation, value1, value2) {
+//   let result = 0
+//   switch(operation) {
+//     case '+':
+//       result = value1 + value2;
+//       break;
+//     case '-':
+//       result = value1 - value2;
+//       break;
+//     case '*':
+//       result = value1 * value2;
+//       break;
+//     case '/':
+//       result = value1 / value2;
+//       break;
+//   }
+//   console.log(result);
   
-  return result
-}
-basicOp('+', 4, 7);
-basicOp('-', 15, 18);
-basicOp('*', 5, 5);
-basicOp('/', 49, 7);
+//   return result
+// }
+// basicOp('+', 4, 7);
+// basicOp('-', 15, 18);
+// basicOp('*', 5, 5);
+// basicOp('/', 49, 7);

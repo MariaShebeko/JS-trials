@@ -17,4 +17,6 @@
 
 // import "./js/module-2-2/functions.js";
 
+import "./js/module-3-1/objects.js";
+
 import "./js/learning.js";
