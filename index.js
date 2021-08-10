@@ -17,6 +17,17 @@
 
 // import "./js/module-2-2/functions.js";
 
-import "./js/module-3-1/objects.js";
+// import "./js/module-3-1/objects.js";
 
-import "./js/learning.js";
+// import "./js/module-3-1/destructing.js";
+// import "./js/module-3-1/spred-rest.js";
+
+// import "./js/module-4/call-back.js";
+// import "./js/module-4/stack.js";
+// import "./js/module-4/closure.js";
+import "./js/module-4/this.js";
+
+// PRACTICE
+// import "./js/practice/module3.js";
+
+// import "./js/learning.js";
