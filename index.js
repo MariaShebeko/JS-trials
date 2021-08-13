@@ -25,7 +25,9 @@
 // import "./js/module-4/call-back.js";
 // import "./js/module-4/stack.js";
 // import "./js/module-4/closure.js";
-import "./js/module-4/this.js";
+// import "./js/module-4/this.js";
+
+import "./js/module-5/classes.js";
 
 // PRACTICE
 // import "./js/practice/module3.js";
