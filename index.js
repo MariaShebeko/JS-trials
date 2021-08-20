@@ -27,7 +27,8 @@
 // import "./js/module-4/closure.js";
 // import "./js/module-4/this.js";
 
-import "./js/module-5/classes.js";
+// import "./js/module-5/classes.js";
+import "./js/module-6/practise.js";
 
 // PRACTICE
 // import "./js/practice/module3.js";
